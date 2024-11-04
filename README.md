@@ -38,6 +38,7 @@ git clone https://github.com/your-username/australia-wildfire-dashboard.git
 cd australia-wildfire-dashboard
 
 ## Prerequisites
+
 Ensure you have Python 3.8 or higher installed, then install the following libraries:
           pip install setuptools packaging pandas dash httpx==0.20 plotly
 
