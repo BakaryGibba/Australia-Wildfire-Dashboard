@@ -1,4 +1,17 @@
 # Australia Wildfire Dashboard
+---
+
+## Table of Contents
+
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Components](#components)
+4. [Data Requirements](#data-requirements)
+5. [Callback Function](#callback-function)
+6. [Contributing](#contributing)
+7. [License](#license)
+
+---
 
 ### Overview
 
@@ -14,20 +27,6 @@ The Australia Wildfire Dashboard is an interactive web application built with Py
 ### Project Structure
 
 The application is organized with a clean layout, featuring a dropdown menu for year selection and radio buttons for region selection. Graphical outputs (pie and bar charts) are displayed side by side for an effective comparison.
-
----
-
-## Table of Contents
-
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Components](#components)
-4. [Data Requirements](#data-requirements)
-5. [Callback Function](#callback-function)
-6. [Contributing](#contributing)
-7. [License](#license)
-
----
 
 ## Installation
 
