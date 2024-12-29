@@ -41,3 +41,8 @@ cd australia-wildfire-dashboard
 Ensure you have Python 3.8 or higher installed, then install the following libraries:
           pip install setuptools packaging pandas dash httpx==0.20 plotly
 
+
+
+
+https://github.com/user-attachments/assets/4f7e342e-608a-4882-a321-bb5d1a9623ac
+
